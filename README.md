@@ -1,10 +1,5 @@
 # 🍛 NutriAI — Indian Non-Veg Meal Planner
 
-> **Kaggle 5-Day AI Agents Intensive Vibe Coding Capstone Project**  
-> Track: Concierge Agents · Built with Google ADK + Gemini 2.0 Flash
-
----
-
 ## What it does
 
 NutriAI is a multi-agent AI system that generates personalised 7-day Indian
