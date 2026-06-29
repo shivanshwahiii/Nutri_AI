@@ -1,5 +1,9 @@
 # 🍛 NutriAI — Indian Non-Veg Meal Planner
 
+##what needs to be done
+Need a fresh Gemini api key, and to be added in a new ".env" file and saved in same folder as the rest.
+
+
 ## What it does
 
 NutriAI is a multi-agent AI system that generates personalised 7-day Indian
