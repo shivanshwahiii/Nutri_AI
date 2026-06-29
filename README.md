@@ -4,6 +4,7 @@
 
 Need a fresh Gemini api key, and to be added in a new ".env" file and saved in same folder as the rest.
 
+---
 
 ## What it does
 
